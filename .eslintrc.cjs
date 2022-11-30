@@ -22,6 +22,7 @@ module.exports = {
     "webpack.*",
     "*.scss",
     ".eslintrc.cjs",
+    ".husky/**/*",
   ],
   settings: {
     react: {
