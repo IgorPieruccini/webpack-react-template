@@ -1,4 +1,7 @@
 module.exports = {
+  env: {
+    jest: true,
+  },
   extends: [
     "eslint:recommended",
     "plugin:@typescript-eslint/recommended",
@@ -23,6 +26,7 @@ module.exports = {
     "*.scss",
     ".eslintrc.cjs",
     ".husky/**/*",
+    "jest.config.js",
   ],
   settings: {
     react: {
