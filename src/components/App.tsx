@@ -27,6 +27,10 @@ const App = ()=> {
                     <p>Optimize your bundle with code splitting</p>
                     <li>Eslint Typescript</li>
                     <p>Empower your typescript with eslint</p>
+                    <li>Husky pre-commit: eslint</li>
+                    <p>Make sure only the <span>best code is committed</span></p>
+                    <li>Jest + React testing library</li>
+                    <p>Test your code <span>out of the box</span></p>
                 </ul>
             </div>
         </div>

@@ -22,6 +22,10 @@
         color: $color-success;
     }
 
+    p {
+        color: $color-text-secondary
+    }
+
     .section-out-of-the-box {
         @include flex-center(center, center, row);
 
