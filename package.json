@@ -8,6 +8,7 @@
     "dev": "webpack serve --config webpack.config.js --hot --env mode=development",
     "eslint": "npx eslint .",
     "test": "jest",
+    "test:watch": "jest --watch",
     "prepare": "husky install"
   },
   "author": "Igor Pieruccini",
