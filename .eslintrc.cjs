@@ -27,6 +27,7 @@ module.exports = {
     ".eslintrc.cjs",
     ".husky/**/*",
     "jest.config.js",
+    "__mocks__/**/*"
   ],
   settings: {
     react: {
